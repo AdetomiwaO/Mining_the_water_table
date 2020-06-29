@@ -8,5 +8,7 @@ The goal of the project is to effectively predict the operating condition of a w
 There are 3 files used for the analyses:
 
 labels.csv: depicts whether a waterfront is funtional, not functional, or functional needs repair
+
 values.csv: contains fields for all the features of the waterfronts
+
 competition_test.csv: features used in predicting water table status with predictions submitted on the competition site
