@@ -3,9 +3,9 @@ Capstone Project for Udacity Data Science Nanodegree
 
 Data for this project is sourced from the Taarifa waterpoints dashboard, which aggregates data from the Tanzania Ministry of Water. It is hosted by DRIVENDATA as an open source project aimed at tackling social challenges with Data Science. https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 
-![Github_logo](http://drivendata.materials.s3.amazonaws.com/pumps/pumping.jpg)
-*Image Source: https://www.drivendata.org/*
+![image](http://drivendata.materials.s3.amazonaws.com/pumps/pumping.jpg)
 
+*Image Source: https://www.drivendata.org/*
 The goal of the project is to effectively predict the operating condition of a water front for each record in the data. Each record or waterfront has 30+ features associated with it.
 http://drivendata.materials.s3.amazonaws.com/pumps/pumping.jpg
 ## The Data
