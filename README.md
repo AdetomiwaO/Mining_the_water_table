@@ -35,5 +35,5 @@ There are 3 files used for the analyses:
 - Pipelines Class switching: https://stackoverflow.com/questions/48507651/multiple-classification-models-in-a-scikit-pipeline-python 
 - Model selection: https://datascience.stackexchange.com/questions/53181/large-no-of-categorical-variables-with-large-no-of-categories
 - Feature selection: https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e
-
+- Column Transformation: https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer_mixed_types.html
 
