@@ -21,14 +21,13 @@ There are 3 files used for the analyses:
     matplotlib
     seaborn
     sklearn
-    
     CatBoost
 
 ## Steps Taken
 - Data Exploration
 - Feature selection 
 - Dealing with missing values
-- Classification
+- Classification GPU: https://colab.research.google.com/
 - Model Evaluation
 
 ## References: 
