@@ -18,17 +18,18 @@ There are 3 files used for the analyses:
 ## Libraries:
     pandas
     numpy
-    matplotlib & seaborn
+    matplotlib
+    seaborn
     sklearn
+    
     CatBoost
 
 ## Steps Taken
 - Data Exploration
 - Feature selection 
 - Dealing with missing values
-- Classification Pipeline
+- Classification
 - Model Evaluation
-- Competition Prediction Submissions
 
 ## References: 
 - Catboost Model implementation:  https://catboost.ai/docs/\
