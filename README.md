@@ -30,6 +30,17 @@ There are 3 files used for the analyses:
 - Classification GPU: https://colab.research.google.com/
 - Model Evaluation
 
+## Summary of Results
+Steps | Model 0 | Model 1 | Model 2 | Model 3 
+------------ | ------------- | ------------- | ------------- | -------------
+Data Cleansing | - |yes|  yes  | yes
+Features Selection/Engineering | - | yes| yes  | yes 
+Num. of Features | 39 | 26| 26  | 26
+Impute missing values | -  |   -    |  Categ. & Num. Variables |   Num. variables ONLY    
+Tuning |  -   |    grid search   |   grid search   | randomized search
+Test Score (F1 Micro Score) | 0.8016    |    0.8080   |  0.8086    | 0.7948
+Hold out Score (Classification Rate) | 0.8007    | 0.8302       | 0.8048  |   0.7801
+
 ## References: 
 - Catboost Model implementation:  https://catboost.ai/docs/\
 - Pipelines Class switching: https://stackoverflow.com/questions/48507651/multiple-classification-models-in-a-scikit-pipeline-python 
