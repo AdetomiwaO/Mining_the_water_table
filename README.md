@@ -41,7 +41,8 @@ Tuning |  -   |    grid search   |   grid search   | randomized search
 Test Score (F1 Micro Score) | 0.8016    |    0.8080   |  0.8086    | 0.7948
 Hold out Score (Classification Rate) | 0.8007    | 0.8302       | 0.8048  |   0.7801
 
-## Medium BLOG Summary: https://medium.com/@adetomiwao/mining-the-water-table-water-pump-classification-5644c7b2635c?sk=3c90a66dba8a77978696019457d24436
+## Medium BLOG Summary: 
+https://medium.com/@adetomiwao/mining-the-water-table-water-pump-classification-5644c7b2635c?sk=3c90a66dba8a77978696019457d24436
 
 ## References: 
 - Catboost Model implementation:  https://catboost.ai/docs/\
